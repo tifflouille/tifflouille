@@ -10,4 +10,5 @@ I use data to answer commercial questions, from acquisition to retention.
 - Working across French, English, and Mandarin-speaking markets
 
 **I work with:** `Shopify · Klaviyo · GA4 · SQL · Python`
+
 Background in Business Analytics, marketing and ecomm within the fashion and luxury industry. 
