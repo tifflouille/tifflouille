@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Tiffany!
 
-<!--
-**tifflouille/tifflouille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**E-Commerce & Growth Professional at the intersection of data and DTC brands.**
 
-Here are some ideas to get you started:
+I use data to answer commercial questions, from acquisition to retention. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently**
+- Freelance growth & analytics for a sustainable DTC swimwear brand
+- Building a small public body of work on DTC fashion commerce: segmentation, retention, and merchandising diagnostics
+- Working across French, English, and Mandarin-speaking markets
+
+**I work with:** `Shopify · Klaviyo · GA4 · SQL · Python`
+Background in Business Analytics, marketing and ecomm within the fashion and luxury industry. 
